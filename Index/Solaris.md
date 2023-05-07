@@ -1,6 +1,6 @@
 # Logos of Solaris
 Name|logo
-|--|--
+--|--
 1-SmartOS|<img src="https://user-images.githubusercontent.com/69227436/236678790-ea8e98bc-d66e-4bcb-a0bf-fcd7d2aebcd7.png" width="100px"> 
 2-OpenIndiana|<img src="https://user-images.githubusercontent.com/69227436/236678791-3681af2a-4084-4339-a2be-0783834e3d9c.png" width="100px"> 
 3-Solaris|<img src="https://user-images.githubusercontent.com/69227436/236678793-cf9dd4ab-bb08-4908-a215-0a9d0bcd0457.png" width="100px"> 
