@@ -1,5 +1,5 @@
-# Logos of 
+## Logos of Assistive
 Name|Logo
 --|--
-|<img src=".png" width="100px"> 
-|<img src=".png" width="100px"> 
+KNOPPIX|<img src="KNOPPIX.png" width="100px"> 
+Slint|<img src="Slint.png" width="100px"> 
