@@ -50,6 +50,6 @@ Name|Logo
 47-Swift|<img src="47-Swift.png" width="100px"> 
 48-HamoniKR|<img src="48-HamoniKR.png" width="100px"> 
 49-PakOS|<img src="49-PakOS.png" width="100px"> 
-50-Br_OS|<img src="50-Br OS.png" width="100px"> 
+50-Br OS|<img src="50-Br_OS.png" width="100px"> 
 51-mAid|<img src="51-mAid.png" width="100px"> 
 52-blendOS|<img src="52-blendOS.png" width="100px"> 

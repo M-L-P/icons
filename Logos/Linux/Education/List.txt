@@ -1,0 +1,11 @@
+1-NixOS.png
+2-AcademiX.png
+3-OSGeoLive.png
+4-PrimTux.png
+5-BOSS.png
+6-eLearnix.png
+7-Karoshi.png
+8-MAX.png
+List.txt
+README.md
+ап╬ы.bat
