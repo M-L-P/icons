@@ -1,5 +1,4 @@
-## Logos of Clusters
-Name|Logo
+## Clusters
+Name|Icon
 --|--
-Proxmox|<img src="Proxmox.png" width="100px"> 
-
+Proxmox|<img src="Proxmox.png" width="100px">

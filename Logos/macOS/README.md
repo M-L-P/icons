@@ -1,5 +1,5 @@
-# Logos of macOS
-Name|Logo|
+# macOS
+Name|Icon
 --|--
 1-Macintosh|<img src="1-Macintosh.png" width="100px">
 

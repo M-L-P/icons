@@ -1,5 +1,5 @@
-# Logo of Other_OSes
-Name|Logo
+# Other OSes
+Name|Icon
 --|--
 1-Haiku|<img src="1-Haiku.png" width="100px">
 2-ReactOS|<img src="2-ReactOS.png" width="100px">
