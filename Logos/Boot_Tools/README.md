@@ -2,4 +2,4 @@
 Name|Logo
 --|--
 grubfm|<img src="grubfm.png" width="100px"> 
-Ventoy|<img src="grubfm.png" width="100px"> 
+Ventoy|<img src="Ventoy.png" width="100px"> 
