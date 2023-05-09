@@ -20,7 +20,7 @@ Vista|<img src="Windows/Vista.png" width="100px">
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
-### Arch
+#### Arch
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
   
@@ -38,7 +38,7 @@ BlackArch|<img src="Linux/Arch/8-BlackArch.png" width="100px">
 ArchStrike|<img src="Linux/Arch/9-ArchStrike.png" width="100px">
 </details>
 
-### Assistive
+#### Assistive
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -48,7 +48,7 @@ KNOPPIX|<img src="Linux/Assistive/KNOPPIX.png" width="100px">
 Slint|<img src="Linux/Assistive/Slint.png" width="100px">
 </details>
 
-### Beginners
+#### Beginners
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -65,7 +65,7 @@ Name|Icon
 9-Netrunner|<img src="Linux/Beginners/9-Netrunner.png" width="100px">
 </details>
 
-### Boot Rescue
+#### Boot Rescue
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -75,7 +75,7 @@ Rescatux|<img src="Linux/Boot_Rescue/Rescatux.png" width="100px">
 Super_Grub2_Disk|<img src="Linux/Boot_Rescue/Super_Grub2_Disk.png" width="100px">
 </details>
 
-### Clusters
+#### Clusters
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -84,7 +84,7 @@ Name|Icon
 Proxmox|<img src="Linux/Clusters/Proxmox.png" width="100px">
 </details>
 
-### Data Rescue
+#### Data Rescue
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -100,7 +100,7 @@ Name|Icon
 8-paldo|<img src="Linux/Data_Rescue/8-paldo.png" width="100px">
 </details>
 
-### Desktop
+#### Desktop
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -116,7 +116,7 @@ Name|Icon
 8-Omoikane|<img src="Linux/Desktop/8-Omoikane.png" width="100px">
 </details>
 
-### Desktop&LiveMedium
+#### Desktop&LiveMedium
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -176,7 +176,7 @@ Name|Icon
 52-blendOS|<img src="Linux/Desktop&LiveMedium/52-blendOS.png" width="100px">
 </details>
 
-### Disk Management
+#### Disk Management
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -186,7 +186,7 @@ GParted Live|<img src="Linux/Disk_Management/GParted Live.png" width="100px">
 Parted Magic|<img src="Linux/Disk_Management/Parted Magic.png" width="100px">
 </details>
 
-### Docker
+#### Docker
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -196,7 +196,7 @@ Photon OS|<img src="Linux/Docker/Photon OS.png" width="100px">
 Snal Linux|<img src="Linux/Docker/Snal_Linux.png" width="100px">
 </details>
 
-### Education
+#### Education
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -212,7 +212,7 @@ Name|Icon
 8-MAX|<img src="Linux/Education/8-MAX.png" width="100px">
 </details>
 
-### Firewall
+#### Firewall
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -225,7 +225,7 @@ Name|Icon
 5-Untangle|<img src="Linux/Firewall/5-Untangle.png" width="100px">
 </details>
 
-### Forensics
+#### Forensics
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -239,7 +239,7 @@ Name|Icon
 6-Pentoo|<img src="Linux/Forensics/6-Pentoo.png" width="100px">
 </details>
 
-### Free Software
+#### Free Software
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -252,7 +252,7 @@ Name|Icon
 5-Parabola|<img src="Linux/Free_Software/5-Parabola.png" width="100px">
 </details>
 
-### From_RAM
+#### From_RAM
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -265,7 +265,7 @@ Name|Icon
 5-KANOTIX|<img src="Linux/From_RAM/5-KANOTIX.png" width="100px">
 </details>
 
-### Gaming
+#### Gaming
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -279,7 +279,7 @@ Name|Icon
 6-Recalbox|<img src="Linux/Gaming/6-Recalbox.png" width="100px">
 </details>
 
-### Immutable
+#### Immutable
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -290,7 +290,7 @@ Name|Icon
 3-Vanilla|<img src="Linux/Immutable/3-Vanilla.png" width="100px">
 </details>
 
-### LiveMedium
+#### LiveMedium
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -301,7 +301,7 @@ Name|Icon
 3-Berry|<img src="Linux/LiveMedium/3-Berry.png" width="100px">
 </details>
 
-### Mobile
+#### Mobile
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -313,7 +313,7 @@ Name|Icon
 4-UBports|<img src="Linux/Mobile/4-UBports.png" width="100px">
 </details>
 
-### Multimedia
+#### Multimedia
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -325,7 +325,7 @@ Name|Icon
 4-Volumio|<img src="Linux/Multimedia/4-Volumio.png" width="100px">
 </details>
 
-### NAS
+#### NAS
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -336,7 +336,7 @@ Name|Icon
 3-Rockstor|<img src="Linux/NAS/3-Rockstor.png" width="100px">
 </details>
 
-### Netbooks
+#### Netbooks
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -348,7 +348,7 @@ Name|Icon
 4-Runtu|<img src="Linux/Netbooks/4-Runtu.png" width="100px">
 </details>
 
-### Old Computers
+#### Old Computers
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -363,7 +363,7 @@ Name|Icon
 7-SliTaz|<img src="Linux/Old_Computers/7-SliTaz.png" width="100px">
 </details>
 
-### Privacy
+#### Privacy
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -375,7 +375,7 @@ Name|Icon
 4-Septor|<img src="Linux/Privacy/4-Septor.png" width="100px">
 </details>
 
-### Raspberry
+#### Raspberry
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -389,7 +389,7 @@ Name|Icon
 6-RDS|<img src="Linux/Raspberry/6-RDS.png" width="100px">
 </details>
 
-### Security
+#### Security
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -402,7 +402,7 @@ Name|Icon
 5-NST|<img src="Linux/Security/5-NST.png" width="100px">
 </details>
 
-### Server
+#### Server
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -439,7 +439,7 @@ Name|Icon
 29-OviOS|<img src="Linux/Server/29-OviOS.png" width="100px">
 </details>
 
-### Source-based
+#### Source-based
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -455,7 +455,7 @@ Name|Icon
 8-T2.png|<img src="Linux/Source-based/8-T2.png" width="100px">
 </details>
 
-### Specialist
+#### Specialist
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -472,7 +472,7 @@ Name|Icon
 9-KISS|<img src="Linux/Specialist/9-KISS.png" width="100px">
 </details>
 
-### Telephony
+#### Telephony
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -484,7 +484,7 @@ Name|Icon
 4-FreePBX|<img src="Linux/Telephony/4-FreePBX.png" width="100px">
 </details>
 
-### Thin Client
+#### Thin Client
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -495,7 +495,7 @@ Name|Icon
 3-Thinstation|<img src="Linux/Thin_Client/3-Thinstation.png" width="100px">
 </details>
 
-### Ubuntu
+#### Ubuntu
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -514,7 +514,7 @@ Name|Icon
 11-Ubuntu Christian|<img src="Linux/Ubuntu/11-Ubuntu_Christian.png" width="100px">
 </details>
 
-### WebUI Server
+#### WebUI Server
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -529,7 +529,7 @@ Name|Icon
 
 </details>
 
-### Android
+## Android
 
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
