@@ -1,5 +1,4 @@
 # Windows
-
 Name|Icon
 --|--
 Microsoft|<img src="Microsoft.png" width="100px">
