@@ -15,7 +15,7 @@ These icons can be used for Multi-OSes_Bootloaders, such as rEFInd, CloverBootlo
 - You can download [PNGs](PNGs) to use, directly.
 #### Fine Tune
 - You can download from [IconEditor](IconEditor),
-	so to use Microsoft PointPower 2021+ to adapt for new.
+	so to use Microsoft PowerPoint 2021+ to adapt for new.
 #### Something Wrong
 - You can [issue](https://github.com/M-L-P/icons/issues) or [pull requests](https://github.com/M-L-P/icons/pulls).
 </details>
