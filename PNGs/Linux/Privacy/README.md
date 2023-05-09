@@ -1,4 +1,4 @@
-# Logos of Privacy
+# Privacy
 Name|Icon
 --|--
 1-Tails|<img src="1-Tails.png" width="100px"><img src="1-Tails-1.png" width="100px">
