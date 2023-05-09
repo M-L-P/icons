@@ -2,7 +2,7 @@
 
 ## Arch
 <details>
-<summary>Click to Unfold</summary>
+<summary>🖱️Click to Unfold to see🖱️</summary>
   
 Name|Icon
 --|--
