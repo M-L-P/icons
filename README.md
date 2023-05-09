@@ -1,7 +1,7 @@
 # icons
 Collections of all of the logos of active OSes.
-These icons can be used for Multi-OSes_Bootloaders,
-such as rEFInd, CloverBootloader, and so on.
+
+These icons can be used for Multi-OSes_Bootloaders, such as rEFInd, CloverBootloader, and so on.
 
 ## 🧭Guide⬇️
 
@@ -14,7 +14,7 @@ such as rEFInd, CloverBootloader, and so on.
 - You can download from [IconEditor](IconEditor),
 	with Microsoft PointPower 2021+ to adapt for new.
 #### Something Wrong
-- You can issue or pull requests.
+- You can [issue](https://github.com/M-L-P/icons/issues) or [pull requests](https://github.com/M-L-P/icons/pulls).
 </details>
 
 ## 💻️Preview👀
@@ -28,9 +28,9 @@ such as rEFInd, CloverBootloader, and so on.
 If you like it and are looking forward to the coming update, you can star it.💫
 
 ## 🎉Credit🎊
-Many source materials have been adapted from icons of official website of the OSes;
-Some source materials have been copied from Wikipedia;
-Some source materials have been found by using Google Lens;
-Some source materials have been copied from [SHAREICON.NET](https://www.shareicon.net/);
-Some source materials have been resized by using [real-esrgan](https://replicate.com/nightmareai/real-esrgan);
-A few source materials have been from Unknown；
+- Many source materials have been adapted from icons of official website of the OSes;
+- Some source materials have been copied from [Wikipedia](https://en.wikipedia.org/wiki/Main_Page);
+- Some source materials have been found by using [Google Lens](https://www.google.com/);
+- Some source materials have been copied from [SHAREICON.NET](https://www.shareicon.net/);
+- Some source materials have been resized by using [real-esrgan](https://replicate.com/nightmareai/real-esrgan);
+- A few source materials have been from Unknown；
