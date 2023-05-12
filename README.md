@@ -673,3 +673,11 @@ If you like it and are looking forward to the coming update, you can star it.�
 - Some source materials have been copied from [SHAREICON.NET](https://www.shareicon.net/);
 - Some source materials have been resized by using [real-esrgan](https://replicate.com/nightmareai/real-esrgan);
 - A few source materials have been from Unknown.
+
+## 🧁Buy me a piece of chocolate🍫
+I have no father; No man celebrates my birthday; No man buys me a cake🎂.<br/>
+If you are willing, please treat me to a piece of chocolate🍫.<br/>
+I need chocolate🍫 to help me release endorphins and dopamine to get rid of pain.<br/>
+I would be very grateful to you, fairy lady🧚 or handsome knight🦸‍♂️.<br/>
+![Dove](https://github.com/M-L-P/Yours/assets/69227436/f094f056-9420-4dd5-beec-4ccecff20a1e)
+<img src="https://github.com/M-L-P/Yours/assets/69227436/8608e193-3c4d-4926-8171-7944e881d95f" width="300px">
