@@ -22,9 +22,6 @@ These icons can be used for Multi-OSes_Bootloaders, such as rEFInd, CloverBootlo
 
 ## 💻️Preview👀
 
-<details>
-<summary>🖱️Click to Unfold to see🖱️</summary>
-
 ### Windows
 
 <details>
@@ -658,9 +655,6 @@ Name|Icon
 --|--
 grubfm|<img src="PNGs/Boot_Tools/grubfm.png" width="100px">
 Ventoy|<img src="PNGs/Boot_Tools/Ventoy.png" width="100px">
-</details>
-
-
 </details>
 
 ## ⭐Star🌟
