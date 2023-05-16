@@ -391,7 +391,7 @@ Name|Icon
 
 Name|Icon
 --|--
-1-Tails|<img src="PNGs/Linux/Privacy/1-Tails.png" width="100px"><img src="Privacy/1-Tails-1.png" width="100px">
+1-Tails|<img src="PNGs/Linux/Privacy/1-Tails.png" width="100px"><img src="PNGs/Linux/Privacy/1-Tails-1.png" width="100px">
 2-Kodachi|<img src="PNGs/Linux/Privacy/2-Kodachi.png" width="100px">
 3-Whonix|<img src="PNGs/Linux/Privacy/3-Whonix.png" width="100px">
 4-Septor|<img src="PNGs/Linux/Privacy/4-Septor.png" width="100px">
@@ -587,7 +587,7 @@ Name|Icon
 --|--
 1-Macintosh|<img src="PNGs/macOS/1-Macintosh.png" width="100px">
 
-Name|Logo|Name|logo
+Name|Icon|Name|Icon
 --|--|--|--
 2-macOS|<img src="PNGs/macOS/2-macOS.png" width="100px">|5-Mac OS|<img src="PNGs/macOS/5-Mac_OS.png" width="100px">
 3-OpenCore|<img src="PNGs/macOS/3-OpenCore.png" width="100px">|6-OpenCore|<img src="PNGs/macOS/6-OpenCore.png" width="100px">
