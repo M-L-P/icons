@@ -32,6 +32,7 @@ Name|Icon
 Microsoft|<img src="PNGs/Windows/Microsoft.png" width="100px">
 Windows 11|<img src="PNGs/Windows/Win11.png" width="100px">
 Windows 10|<img src="PNGs/Windows/Win10.png" width="100px">
+Server|<img src="PNGs/Windows/Server.png" width="100px">
 Windows 8.1|<img src="PNGs/Windows/Win8.1.png" width="100px">
 Windows 7|<img src="PNGs/Windows/Win7.png" width="100px">
 Vista|<img src="PNGs/Windows/Vista.png" width="100px">
