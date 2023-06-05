@@ -1,9 +1,9 @@
 [English](README.md)|[简体中文](自述文件.md)|[繁體中文](繁體中文.md)
 --|--|--
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/icons)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/icons)](https://github.com/M-L-P/icons/releases/latest)
 ![GitHub Repo stars](https://img.shields.io/github/stars/M-L-P/icons?style=social)
-![GitHub Discussions](https://img.shields.io/github/discussions/M-L-P/icons)
+[![GitHub Discussions](https://img.shields.io/github/discussions/M-L-P/icons)](https://github.com/M-L-P/icons/discussions)
 
 # icons
 Collections of logos of all the active OSes.
