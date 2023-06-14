@@ -2,8 +2,8 @@
 [![GitHub Discussions](https://img.shields.io/github/discussions/M-L-P/icons)](https://github.com/M-L-P/icons/discussions)
 [![GitHub Repo stars](https://img.shields.io/github/stars/M-L-P/icons?style=social)](https://github.com/M-L-P/icons/stargazers)
 
-[English](README.md)|[简体中文](自述文件.md)|[繁體中文](繁體中文.md)
---|--|--
+[English](README.md)|[简体中文](README-自述文件.md)|[繁體中文](README-繁體中文.md)|...
+--|--|--|--
 
 # icons
 Collections of logos of all the active OSes.

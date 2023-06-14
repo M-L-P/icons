@@ -2,34 +2,34 @@
 [![GitHub Discussions](https://img.shields.io/github/discussions/M-L-P/icons)](https://github.com/M-L-P/icons/discussions)
 [![GitHub Repo stars](https://img.shields.io/github/stars/M-L-P/icons?style=social)](https://github.com/M-L-P/icons/stargazers)
 
-[English](README.md)|[简体中文](自述文件.md)|[繁體中文](繁體中文.md)
---|--|--
+[English](README.md)|[简体中文](README-自述文件.md)|[繁體中文](README-繁體中文.md)|...
+--|--|--|--
 
 # icons
-收集所有活跃的操作系统的图标。
+收集所有活躍的操作系統的圖標。
 
-这些图标应用于 多系统预启动程序, 例如：rEFInd，CloverBootloader 等。
+這些圖標應用於 多系統預啟動程序, 例如：rEFInd，CloverBootloader 等。
 
 ## 🧭指南⬇️
 
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 #### 直接使用
-- 你可以直接下载并使用 [PNGs](PNGs)。
-#### 细微调整
-- 你可以下载 [IconEditor](IconEditor),
-	使用 Microsoft PowerPoint 2021+ 来改编新的。
-#### 提交反馈
+- 你可以直接下載並使用 [PNGs](PNGs)。
+#### 細微調整
+- 你可以下載 [IconEditor](IconEditor),
+	使用 Microsoft PowerPoint 2021+ 來改編新的。
+#### 提交反饋
 - 你可以 [issue](https://github.com/M-L-P/icons/issues) 或 [pull requests](https://github.com/M-L-P/icons/pulls)。
 </details>
 
-## 💻️预览👀
+## 💻️預覽👀
 
 ### Windows
 
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -45,11 +45,11 @@ Vista|<img src="PNGs/Windows/Vista.png" width="100px">
 ### Linux
 
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 #### Arch
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
   
 Name|Icon
 --|--
@@ -67,7 +67,7 @@ ArchStrike|<img src="PNGs/Linux/Arch/9-ArchStrike.png" width="100px">
 
 #### Assistive
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -77,7 +77,7 @@ Slint|<img src="PNGs/Linux/Assistive/Slint.png" width="100px">
 
 #### Beginners
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -94,7 +94,7 @@ Name|Icon
 
 #### Boot Rescue
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -104,7 +104,7 @@ Super_Grub2_Disk|<img src="PNGs/Linux/Boot_Rescue/Super_Grub2_Disk.png" width="1
 
 #### Clusters
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -113,7 +113,7 @@ Proxmox|<img src="PNGs/Linux/Clusters/Proxmox.png" width="100px">
 
 #### Data Rescue
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -129,7 +129,7 @@ Name|Icon
 
 #### Desktop
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -145,7 +145,7 @@ Name|Icon
 
 #### Desktop&LiveMedium
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -205,7 +205,7 @@ Name|Icon
 
 #### Disk Management
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -215,7 +215,7 @@ Parted Magic|<img src="PNGs/Linux/Disk_Management/Parted Magic.png" width="100px
 
 #### Docker
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -225,7 +225,7 @@ Snal Linux|<img src="PNGs/Linux/Docker/Snal_Linux.png" width="100px">
 
 #### Education
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -241,7 +241,7 @@ Name|Icon
 
 #### Firewall
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -254,7 +254,7 @@ Name|Icon
 
 #### Forensics
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -268,7 +268,7 @@ Name|Icon
 
 #### Free Software
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -281,7 +281,7 @@ Name|Icon
 
 #### From_RAM
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -294,7 +294,7 @@ Name|Icon
 
 #### Gaming
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -308,7 +308,7 @@ Name|Icon
 
 #### Immutable
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -319,7 +319,7 @@ Name|Icon
 
 #### LiveMedium
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -330,7 +330,7 @@ Name|Icon
 
 #### Mobile
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -342,7 +342,7 @@ Name|Icon
 
 #### Multimedia
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -354,7 +354,7 @@ Name|Icon
 
 #### NAS
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -365,7 +365,7 @@ Name|Icon
 
 #### Netbooks
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -377,7 +377,7 @@ Name|Icon
 
 #### Old Computers
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -392,7 +392,7 @@ Name|Icon
 
 #### Privacy
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -404,7 +404,7 @@ Name|Icon
 
 #### Raspberry
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -418,7 +418,7 @@ Name|Icon
 
 #### Security
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -431,7 +431,7 @@ Name|Icon
 
 #### Server
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -468,7 +468,7 @@ Name|Icon
 
 #### Source-based
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -484,7 +484,7 @@ Name|Icon
 
 #### Specialist
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -501,7 +501,7 @@ Name|Icon
 
 #### Telephony
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -513,7 +513,7 @@ Name|Icon
 
 #### Thin Client
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -524,7 +524,7 @@ Name|Icon
 
 #### Ubuntu
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -543,7 +543,7 @@ Name|Icon
 
 #### WebUI Server
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -559,7 +559,7 @@ Name|Icon
 ### Android
 
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -573,7 +573,7 @@ android 10|<img src="PNGs/Android/android_10.png" width="100px">
 ### chromiumOS
 
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -586,7 +586,7 @@ Name|Icon
 ### macOS
 
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -602,7 +602,7 @@ Name|Icon|Name|Icon
 ### BSD
 
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -627,7 +627,7 @@ Name|Icon
 ### Solaris
 
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -641,7 +641,7 @@ Name|Icon
 ### Other OSes
 
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -654,7 +654,7 @@ Name|Icon
 ### Boot_Tools
 
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
+<summary>🖱️點擊展開查看🖱️</summary>
 
 Name|Icon
 --|--
@@ -665,23 +665,23 @@ Ventoy|<img src="PNGs/Boot_Tools/Ventoy.png" width="100px">
 ## ⭐收藏🌟
 如果你喜欢并且期待未来的更新，你可以点亮星星。💫
 
-## 🎉来源🎊
-- 许多素材来自 各操作系统的官方网站；
+## 🎉來源🎊
+- 許多素材來自 各操作系統的官方網站；
 - 部分素材取自 [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)；
-- 部分素材被发现于 [Google Lens](https://www.google.com/)；
-- 部分素材来自 [SHAREICON.NET](https://www.shareicon.net/)；
-- 部分素材是 AI 调整分辨率后的，该工具为 [real-esrgan](https://replicate.com/nightmareai/real-esrgan)；
-- 少数素材未知出处。
+- 部分素材被發現於 [Google Lens](https://www.google.com/)；
+- 部分素材來自 [SHAREICON.NET](https://www.shareicon.net/)；
+- 部分素材是 AI 調整分辨率後的，該工具為 [real-esrgan](https://replicate.com/nightmareai/real-esrgan)；
+- 少數素材未知出處。
 
-## 🧁请我吃块巧克力🍫
+## 🧁請我吃塊巧克力🍫
 <details>
-<summary>🖱️点击展开查看🖱️</summary>
-我没有父亲；没人给我过生日；没人为我买蛋糕🎂。<br/>
-如果你愿意，请我吃块巧克力🍫。<br/>
-我需要巧克力🍫帮助我释放内啡肽与多巴胺来缓解痛苦。<br/>
-我将会非常感谢您，仙女姐姐🧚‍ 或 玉树豪侠🦸‍♂️。<br/>
+<summary>🖱️點擊展開查看🖱️</summary>
+我沒有父親；沒人給我過生日；沒人為我買蛋糕🎂。<br/>
+如果你願意，請我吃塊巧克力🍫。<br/>
+我需要巧克力🍫幫助我釋放內啡肽與多巴胺來緩解痛苦。<br/>
+我將會非常感謝您，仙女姐姐🧚‍ 或 玉樹豪俠🦸‍♂️。<br/>
 <img src="https://github.com/M-L-P/Yours/assets/69227436/f094f056-9420-4dd5-beec-4ccecff20a1e" width="300px"><br/>
 <img src="https://github.com/M-L-P/Yours/assets/69227436/8608e193-3c4d-4926-8171-7944e881d95f" width="300px">
 
-[🧚仙女豪侠🦸‍♂️ 名单](https://github.com/M-L-P/.github/blob/main/list/README.md)
+[🧚仙女豪俠🦸‍♂️ 名单](https://github.com/M-L-P/.github/blob/main/list/README.md)
 </details>
