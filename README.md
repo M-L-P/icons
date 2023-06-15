@@ -646,7 +646,7 @@ Name|Icon
 Name|Icon
 --|--
 1-Haiku|<img src="PNGs/Other_OSes/1-Haiku.png" width="100px">
-2-ReactOS|<img src="PNGs/Other_OSes/2-ReactOS.png" width="100px">
+2-ReactOS|<img src="PNGs/Other_OSes/2-ReactOS.png" width="100px"><img src="PNGs/Other_OSes/2-ReactOS-1.png" width="100px">
 3-KolibriOS|<img src="PNGs/Other_OSes/3-KolibriOS.png" width="100px">
 4-RISC OS|<img src="PNGs/Other_OSes/4-RISC_OS.png" width="100px">
 </details>
