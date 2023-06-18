@@ -1,3 +1,11 @@
+<div align="center">
+
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/icons)](https://github.com/M-L-P/icons/releases/latest)
+[![GitHub Discussions](https://img.shields.io/github/discussions/M-L-P/icons)](https://github.com/M-L-P/icons/discussions)
+[![GitHub Repo stars](https://img.shields.io/github/stars/M-L-P/icons?style=social)](https://github.com/M-L-P/icons/stargazers)
+
+</div>
+
 [English](README.md)|[简体中文](README-自述文件.md)|[繁體中文](README-繁體中文.md)|...
 --|--|--|--
 <h1 align="center">icons</h1>
@@ -6,13 +14,6 @@
 這些圖標應用於 多系統預啟動程序, 例如：rEFInd，CloverBootloader 等。
 
 -----------------------------------------------------------------------------------------------------------------------------------
-<div align="center">
-
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/icons)](https://github.com/M-L-P/icons/releases/latest)
-[![GitHub Discussions](https://img.shields.io/github/discussions/M-L-P/icons)](https://github.com/M-L-P/icons/discussions)
-[![GitHub Repo stars](https://img.shields.io/github/stars/M-L-P/icons?style=social)](https://github.com/M-L-P/icons/stargazers)
-
-</div>
 
 ## 🧭指南⬇️
 
