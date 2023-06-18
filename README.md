@@ -1,14 +1,13 @@
+[English](README.md)|[简体中文](README-自述文件.md)|[繁體中文](README-繁體中文.md)|...
+--|--|--|--
+<h1 align="center">icons</h1>
+Collections of logos of all the active OSes.<br/>
+These icons can be used for Multi-OSes_Bootloaders, such as rEFInd, CloverBootloader, and so on.
+<div align="center">
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/icons)](https://github.com/M-L-P/icons/releases/latest)
 [![GitHub Discussions](https://img.shields.io/github/discussions/M-L-P/icons)](https://github.com/M-L-P/icons/discussions)
 [![GitHub Repo stars](https://img.shields.io/github/stars/M-L-P/icons?style=social)](https://github.com/M-L-P/icons/stargazers)
-
-[English](README.md)|[简体中文](README-自述文件.md)|[繁體中文](README-繁體中文.md)|...
---|--|--|--
-
-# icons
-Collections of logos of all the active OSes.
-
-These icons can be used for Multi-OSes_Bootloaders, such as rEFInd, CloverBootloader, and so on.
+</div>
 
 ## 🧭Guide⬇️
 
