@@ -3,6 +3,7 @@
 <h1 align="center">icons</h1>
 收集所有活跃的操作系统的图标。<br/>
 这些图标应用于 多系统预启动程序, 例如：rEFInd，CloverBootloader 等。
+-----------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/icons)](https://github.com/M-L-P/icons/releases/latest)

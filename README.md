@@ -3,6 +3,7 @@
 <h1 align="center">icons</h1>
 Collections of logos of all the active OSes.<br/>
 These icons can be used for Multi-OSes_Bootloaders, such as rEFInd, CloverBootloader, and so on.
+-----------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/icons)](https://github.com/M-L-P/icons/releases/latest)
