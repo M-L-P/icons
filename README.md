@@ -4,6 +4,7 @@
 
 Collections of logos of all the active OSes.<br/>
 These icons can be used for Multi-OSes_Bootloaders, such as rEFInd, CloverBootloader, and so on.
+
 -----------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
 
