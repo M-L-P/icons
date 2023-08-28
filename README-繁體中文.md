@@ -679,15 +679,4 @@ Ventoy|<img src="PNGs/Boot_Tools/Ventoy.png" width="100px">
 - 部分素材是 AI 調整分辨率後的，該工具為 [real-esrgan](https://replicate.com/nightmareai/real-esrgan)；
 - 少數素材未知出處。
 
-## 🧁請我吃塊巧克力🍫
-<details>
-<summary>🖱️點擊展開查看🖱️</summary>
-我沒有父親；沒人給我過生日；沒人為我買蛋糕🎂。<br/>
-如果你願意，請我吃塊巧克力🍫。<br/>
-我需要巧克力🍫幫助我釋放內啡肽與多巴胺來緩解痛苦。<br/>
-我將會非常感謝您，仙女姐姐🧚‍ 或 玉樹豪俠🦸‍♂️。<br/>
-<img src="https://github.com/M-L-P/Yours/assets/69227436/f094f056-9420-4dd5-beec-4ccecff20a1e" width="300px"><br/>
-<img src="https://github.com/M-L-P/Yours/assets/69227436/8608e193-3c4d-4926-8171-7944e881d95f" width="300px">
-
-[🧚仙女豪俠🦸‍♂️ 名单](https://github.com/M-L-P/.github/blob/main/list/README.md)
-</details>
+## [🧁請我吃塊巧克力🍫](https://github.com/M-L-P/.github/blob/main/profile/chocolate/README.md)
